@@ -4,7 +4,7 @@ group :development do
   gem 'codeclimate-test-reporter'
   gem 'rake'
   gem 'redcarpet'
-  gem 'rspec'
+  gem 'rspec', '>= 3.5.0'
   gem 'rubocop'
   gem 'rubocop-rspec'
   gem 'rubyzip'
