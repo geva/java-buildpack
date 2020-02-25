@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 group :development do
   gem 'codeclimate-test-reporter'
-  gem 'rake'
+  gem 'rake', '>= 12.3.3'
   gem 'redcarpet'
   gem 'rspec'
   gem 'rubocop'
